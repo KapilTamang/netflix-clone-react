@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loading/> renders <Loading.ReleaseBody/> 1`] = `null`;
+
+exports[`<Loading/> renders <Loading/> with populated data. 1`] = `
+<div
+  class="loading__Spinner-sc-85kiaq-0 bFHDiP"
+>
+  <img
+    class="loading__Image-sc-85kiaq-1 dJfgqw"
+    data-testid="loading-image"
+    src="/images/users/obama.png"
+  />
+</div>
+`;

@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profile/> renders <Profile/> with populated data 1`] = `
+<div
+  class="profile__Container-sc-inw1yt-0 QDWRP"
+>
+  <h1
+    class="profile__Title-sc-inw1yt-1 iYuoOy"
+  >
+    Who's watching?
+  </h1>
+  <ul
+    class="profile__List-sc-inw1yt-2 hWRUPQ"
+  >
+    <li
+      class="profile__Item-sc-inw1yt-5 ecKlhP"
+    >
+      <img
+        class="profile__Image-sc-inw1yt-3 hbBAQY"
+        data-testid="profile-image"
+        src="/images/users/obama.png"
+      />
+      <p
+        class="profile__Name-sc-inw1yt-4 byxqxt"
+      >
+        Barak Obama
+      </p>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Profile/> renders <Profile/> with populated data but misc profile image 1`] = `
+<div
+  class="profile__Container-sc-inw1yt-0 QDWRP"
+>
+  <h1
+    class="profile__Title-sc-inw1yt-1 iYuoOy"
+  >
+    Who's watching?
+  </h1>
+  <ul
+    class="profile__List-sc-inw1yt-2 hWRUPQ"
+  >
+    <li
+      class="profile__Item-sc-inw1yt-5 ecKlhP"
+    >
+      <img
+        class="profile__Image-sc-inw1yt-3 hbBAQY"
+        data-testid="profile-image-misc"
+        src="/images/misc/loading.gif"
+      />
+      <p
+        class="profile__Name-sc-inw1yt-4 byxqxt"
+      >
+        Barak Obama
+      </p>
+    </li>
+  </ul>
+</div>
+`;

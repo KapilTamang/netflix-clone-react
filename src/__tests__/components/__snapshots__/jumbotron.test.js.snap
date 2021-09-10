@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Jumbotron/> renders <Jumbotron /> with populated data 1`] = `
+<div
+  class="jumbotron__Container-sc-fl0gp-1"
+>
+  <div
+    class="jumbotron__Item-sc-fl0gp-2 kPnwNM"
+  >
+    <div
+      class="jumbotron__Inner-sc-fl0gp-0 BeBmO"
+      direction="row"
+    >
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <h1
+          class="jumbotron__Title-sc-fl0gp-4 csvxwt"
+        >
+          Enjoy on your TV.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-fl0gp-5 jKlMGT"
+        >
+          Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <img
+          alt="Tiger King on Netflix"
+          class="jumbotron__Image-sc-fl0gp-6 bgmRvn"
+          data-testid="1-jumbo-image"
+          src="/images/misc/home-tv.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="jumbotron__Item-sc-fl0gp-2 kPnwNM"
+  >
+    <div
+      class="jumbotron__Inner-sc-fl0gp-0 eDJsKv"
+      direction="row-reverse"
+    >
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <h1
+          class="jumbotron__Title-sc-fl0gp-4 csvxwt"
+        >
+          Download your shows to watch offline.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-fl0gp-5 jKlMGT"
+        >
+          Save your favorites easily and always have something to watch.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <img
+          alt="Watch on mobile"
+          class="jumbotron__Image-sc-fl0gp-6 bgmRvn"
+          data-testid="2-jumbo-image"
+          src="/images/misc/home-mobile.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="jumbotron__Item-sc-fl0gp-2 kPnwNM"
+  >
+    <div
+      class="jumbotron__Inner-sc-fl0gp-0 BeBmO"
+      direction="row"
+    >
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <h1
+          class="jumbotron__Title-sc-fl0gp-4 csvxwt"
+        >
+          Watch everywhere.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-fl0gp-5 jKlMGT"
+        >
+          Stream unlimited movies and TV shows on your phone, tablet, laptop and TV.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <img
+          class="jumbotron__Image-sc-fl0gp-6 bgmRvn"
+          data-testid="3-jumbo-image"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="jumbotron__Item-sc-fl0gp-2 kPnwNM"
+  >
+    <div
+      class="jumbotron__Inner-sc-fl0gp-0 eDJsKv"
+      direction="row-reverse"
+    >
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <h1
+          class="jumbotron__Title-sc-fl0gp-4 csvxwt"
+        >
+          Create profile for Kids.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-fl0gp-5 jKlMGT"
+        >
+          Send kids on adventures with their favorite characters in a space made just for them—free with your membership.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-fl0gp-3 fHDlLZ"
+      >
+        <img
+          alt="Profile for kids"
+          class="jumbotron__Image-sc-fl0gp-6 bgmRvn"
+          data-testid="4-jumbo-image"
+          src="/images/misc/home-kids.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

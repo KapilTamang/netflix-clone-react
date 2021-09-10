@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card/> renders <Card/> with populated data. 1`] = `
+<div
+  class="card__Group-sc-17gu7hr-2 hhuDkt"
+>
+  <div
+    class="card__Container-sc-17gu7hr-1 hoOxEJ"
+  >
+    <p
+      class="card__Title-sc-17gu7hr-0 kQqYmG"
+    >
+      Thriller
+    </p>
+    <div
+      class="card__Entities-sc-17gu7hr-12 bTuGXH"
+    >
+      <div
+        class="card__Item-sc-17gu7hr-13 dfWZXi"
+      >
+        <img
+          class="card__Image-sc-17gu7hr-14 evhgOr"
+          src="/images/films/thriller/joker/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-17gu7hr-11 kINZZP"
+        >
+          <p
+            class="card__SubTitle-sc-17gu7hr-3 cfxsNq"
+          >
+            Joker
+          </p>
+          <p
+            class="card__Text-sc-17gu7hr-4 eRvMKP"
+          >
+            Joker description
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="card__Container-sc-17gu7hr-1 hoOxEJ"
+  >
+    <p
+      class="card__Title-sc-17gu7hr-0 kQqYmG"
+    >
+      Children
+    </p>
+    <div
+      class="card__Entities-sc-17gu7hr-12 bTuGXH"
+    >
+      <div
+        class="card__Item-sc-17gu7hr-13 dfWZXi"
+      >
+        <img
+          class="card__Image-sc-17gu7hr-14 evhgOr"
+          src="/images/films/children/frozen/small.jpg"
+        />
+        <div
+          class="card__Meta-sc-17gu7hr-11 kINZZP"
+        >
+          <p
+            class="card__SubTitle-sc-17gu7hr-3 cfxsNq"
+          >
+            Frozen
+          </p>
+          <p
+            class="card__Text-sc-17gu7hr-4 eRvMKP"
+          >
+            Frozen description
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

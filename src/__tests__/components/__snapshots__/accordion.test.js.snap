@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Accordion /> renders <Accordion /> with populted data 1`] = `
+<div
+  class="accordion__Container-sc-hkv243-0 bZjyBk"
+>
+  <div
+    class="accordion__Inner-sc-hkv243-1 eUBbHf"
+  >
+    <h1
+      class="accordion__Title-sc-hkv243-5 foyFws"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        What is Netflix?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        How much does Netflix cost?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        Where can I watch?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        How do I cancel?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        What can I watch on Netflix?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+    <div
+      class="accordion__Item-sc-hkv243-2 bKIXcH"
+    >
+      <div
+        class="accordion__Header-sc-hkv243-3 cxozsV"
+      >
+        Is Netflix good for kids?
+        <img
+          alt="open"
+          src="images/icons/add.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

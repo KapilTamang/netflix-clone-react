@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer/> renders <Footer/> with populated data 1`] = `
+<div
+  class="footer__Container-sc-v6r34u-0 llwOQy"
+>
+  <p
+    class="footer__Title-sc-v6r34u-4 jLVGYU"
+  >
+    Questions? Contact us.
+  </p>
+  <p
+    class="footer__Break-sc-v6r34u-6 fRDGcr"
+  />
+  <div
+    class="footer__Row-sc-v6r34u-2 eRSLXI"
+  >
+    <div
+      class="footer__Column-sc-v6r34u-1 btNdox"
+    >
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        FAQ
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Investor Relations
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Privacy
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Speed Test
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-v6r34u-1 btNdox"
+    >
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Help Center
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Jobs
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Cookie Preferences
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Legal Notices
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-v6r34u-1 btNdox"
+    >
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Account
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Ways to Watch
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Corporate Information
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Only Netflix
+      </a>
+    </div>
+    <div
+      class="footer__Column-sc-v6r34u-1 btNdox"
+    >
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Media Center
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Terms of Use
+      </a>
+      <a
+        class="footer__Link-sc-v6r34u-3 cfHtYk"
+        href="#"
+      >
+        Contact Us
+      </a>
+    </div>
+  </div>
+  <p
+    class="footer__Break-sc-v6r34u-6 fRDGcr"
+  />
+  <p
+    class="footer__Text-sc-v6r34u-5 iSBXre"
+  >
+    Netflix Nepal
+  </p>
+</div>
+`;
